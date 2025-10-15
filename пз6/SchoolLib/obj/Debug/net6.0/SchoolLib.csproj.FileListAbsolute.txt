@@ -1,0 +1,11 @@
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\bin\Debug\net6.0\SchoolLib.deps.json
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\bin\Debug\net6.0\SchoolLib.dll
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\bin\Debug\net6.0\SchoolLib.pdb
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\obj\Debug\net6.0\SchoolLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\obj\Debug\net6.0\SchoolLib.AssemblyInfoInputs.cache
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\obj\Debug\net6.0\SchoolLib.AssemblyInfo.cs
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\obj\Debug\net6.0\SchoolLib.csproj.CoreCompileInputs.cache
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\obj\Debug\net6.0\SchoolLib.dll
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\obj\Debug\net6.0\refint\SchoolLib.dll
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\obj\Debug\net6.0\SchoolLib.pdb
+C:\Users\PUSHKIN\Desktop\pz\пз6\SchoolLib\obj\Debug\net6.0\ref\SchoolLib.dll

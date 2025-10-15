@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F14CBF7D-C479-49F3-B0A7-A9DDE2735263}|SchoolLibTests\\SchoolLibTests.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollibtests\\schooltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14CBF7D-C479-49F3-B0A7-A9DDE2735263}|SchoolLibTests\\SchoolLibTests.csproj|solutionrelative:schoollibtests\\schooltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14CBF7D-C479-49F3-B0A7-A9DDE2735263}|SchoolLibTests\\SchoolLibTests.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollibtests\\myclasstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14CBF7D-C479-49F3-B0A7-A9DDE2735263}|SchoolLibTests\\SchoolLibTests.csproj|solutionrelative:schoollibtests\\myclasstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14CBF7D-C479-49F3-B0A7-A9DDE2735263}|SchoolLibTests\\SchoolLibTests.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollibtests\\schoolstringcollectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14CBF7D-C479-49F3-B0A7-A9DDE2735263}|SchoolLibTests\\SchoolLibTests.csproj|solutionrelative:schoollibtests\\schoolstringcollectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollib\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|solutionrelative:schoollib\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollib\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|solutionrelative:schoollib\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollib\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|solutionrelative:schoollib\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollib\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|solutionrelative:schoollib\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollib\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|solutionrelative:schoollib\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollib\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|solutionrelative:schoollib\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|c:\\users\\pushkin\\desktop\\for\\\u043F\u04377\\schoollib\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A3EFB8-8F71-4CB7-B6A4-9AB7F7106ADB}|SchoolLib\\SchoolLib.csproj|solutionrelative:schoollib\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolStringCollectionTests.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLibTests\\SchoolStringCollectionTests.cs",
+              "RelativeDocumentMoniker": "SchoolLibTests\\SchoolStringCollectionTests.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLibTests\\SchoolStringCollectionTests.cs",
+              "RelativeToolTip": "SchoolLibTests\\SchoolStringCollectionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:01:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClassTests.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLibTests\\MyClassTests.cs",
+              "RelativeDocumentMoniker": "SchoolLibTests\\MyClassTests.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLibTests\\MyClassTests.cs",
+              "RelativeToolTip": "SchoolLibTests\\MyClassTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:01:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\MyClass.cs",
+              "RelativeDocumentMoniker": "SchoolLib\\MyClass.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\MyClass.cs",
+              "RelativeToolTip": "SchoolLib\\MyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:01:09.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolTests.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLibTests\\SchoolTests.cs",
+              "RelativeDocumentMoniker": "SchoolLibTests\\SchoolTests.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLibTests\\SchoolTests.cs",
+              "RelativeToolTip": "SchoolLibTests\\SchoolTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:43:13.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolLib\\Teacher.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\Teacher.cs",
+              "RelativeToolTip": "SchoolLib\\Teacher.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:43:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolLib\\Student.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\Student.cs",
+              "RelativeToolTip": "SchoolLib\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:43:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchoolService.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\SchoolService.cs",
+              "RelativeDocumentMoniker": "SchoolLib\\SchoolService.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\SchoolService.cs",
+              "RelativeToolTip": "SchoolLib\\SchoolService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:43:09.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\ReportService.cs",
+              "RelativeDocumentMoniker": "SchoolLib\\ReportService.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\ReportService.cs",
+              "RelativeToolTip": "SchoolLib\\ReportService.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAiwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:43:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolLib\\Grade.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\Grade.cs",
+              "RelativeToolTip": "SchoolLib\\Grade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:43:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\DataManager.cs",
+              "RelativeDocumentMoniker": "SchoolLib\\DataManager.cs",
+              "ToolTip": "C:\\Users\\PUSHKIN\\Desktop\\for\\\u043F\u04377\\SchoolLib\\DataManager.cs",
+              "RelativeToolTip": "SchoolLib\\DataManager.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:43:03.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
